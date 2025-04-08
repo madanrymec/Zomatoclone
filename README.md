@@ -10,4 +10,6 @@ For Running , Run command : npm run dev
 For testing purpose , run command : npm test.
 For queries contact me : MADAN HS , 
 Email : b20madanhs@gmail.com
-
+Project Partners : 
+K Harshitha 
+Madan HS 
